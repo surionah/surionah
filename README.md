@@ -10,11 +10,12 @@
 
 ### Hi there 👋
 
-My name is Sergio Uriona Herbas (@surionah), I am Frontend Developer with around 6 years of experience in the development world
+My name is Sergio Uriona Herbas (@surionah), I've been working as a Frontend Web Developer for about 7 years, committed to teamwork, passionate about developing user interfaces taking care of details such as responsiveness, performance, clean code.
 
-- 🔭 I’m currently working on NICE CXone as Software Engineer
-- 🌱 I’m currently learning Next.js
-- 💬 Ask me about things related to React.js
+Currently interested in new challenges, looking for positions that involve React js mainly, but it would also be great to have the posibility to work with Node js as well
+
+- 🔭 Currently working on Avenga as Frontend React Developer
+- 🌱 Currently interesting on positions related to React js / Next js
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -27,10 +28,11 @@ My name is Sergio Uriona Herbas (@surionah), I am Frontend Developer with around
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="30" alt="Babel Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" alt="HTML Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" alt="CSS Logo">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="30" alt="Less Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" alt="Sass Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" alt="VSCode Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" alt="NPM Logo">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" width="30" alt="Yarn Logo">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" width="30" alt="Pnpm Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" alt="Git Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" alt="Github Logo">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="30" alt="Gitlab Logo">
